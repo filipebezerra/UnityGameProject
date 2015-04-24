@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: wire_135006006
+  m_Shader: {fileID: 4, guid: 0000000000000000e000000000000000, type: 0}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: c17690e241536e448999c3622786b5cd, type: 1}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 2800000, guid: 543b2d17b73ac374bba5fecf93d953d2, type: 1}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Cube
+        second:
+          m_Texture: {fileID: 8900000, guid: 65a7d442f1932344384c29c6fecc89c6, type: 2}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _Reflection
+        second: .120689653
+      data:
+        first:
+          name: _Shininess
+        second: 1.5
+      data:
+        first:
+          name: _Gloss
+        second: .0862068981
+      data:
+        first:
+          name: _FrezPow
+        second: .25
+      data:
+        first:
+          name: _FrezFalloff
+        second: 4
+      data:
+        first:
+          name: _EdgeAlpha
+        second: .655172408
+      data:
+        first:
+          name: _Metalics
+        second: 1
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: 1, g: .937033534, b: .865671635, a: 1}
+      data:
+        first:
+          name: _SpecColor
+        second: {r: .345098048, g: .298039228, b: .200000003, a: 1}
+      data:
+        first:
+          name: _ReflectColor
+        second: {r: .521568656, g: .521568656, b: .521568656, a: .521568656}
